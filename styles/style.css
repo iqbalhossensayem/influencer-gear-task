@@ -1,0 +1,45 @@
+
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+
+  main{
+    max-width: ;
+  }
+
+
+/* shared style */
+
+.display-flex{
+    display: flex;
+}
+
+.primary-color{
+    color:#3A3A3A;
+}
+.secondary-color{
+    color: #18191F;
+}
+.text-secondary-color{
+    color: #787885;
+}
+
+/* navbar related style */
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+   }
+   .nav-item{
+    list-style: none;
+    margin-right:30px ;
+   }
+
+.link-items{
+    
+   
+}
